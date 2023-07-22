@@ -1,0 +1,6 @@
+alias miniconda="source ~/.activate_miniconda.sh"
+alias ve="python -m venv .venv"
+alias va="source .venv/bin/activate"
+alias tmuxa="tmux attach-session -t"
+alias tmuxn="tmux new -t"
+alias vim="nvim"
