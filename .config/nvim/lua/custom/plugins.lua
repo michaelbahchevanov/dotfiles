@@ -56,6 +56,7 @@ local plugins = {
         "debugpy",
         "ruff",
         "pyright",
+        "marksman"
       },
     },
   },
