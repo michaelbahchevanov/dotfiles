@@ -51,6 +51,7 @@ local plugins = {
     "williamboman/mason.nvim",
     opts = {
       ensure_installed = {
+        "isort",
         "black",
         "debugpy",
         "ruff",
