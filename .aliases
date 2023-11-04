@@ -1,0 +1,25 @@
+alias miniconda="source ~/.activate_miniconda.sh"
+
+alias ve="python -m venv .venv"
+alias va="source .venv/bin/activate"
+
+alias tmuxa="tmux attach-session -t"
+alias tmuxn="tmux new -t"
+alias tmuxname="tmux rename-session"
+alias tmuxsess="tmux new -s"
+alias tmuxdetach="tmux detach"
+
+alias vim="nvim"
+
+alias g="git"
+alias gs="git status"
+alias ga="git add"
+alias gaa="git add ."
+alias gcm="git commit -m"
+alias gcam="git commit -am"
+alias gco="git checkout"
+alias gcb="git checkout -b"
+alias gpl="git pull"
+alias gph="git push"
+alias gfp="git fetch --prune"
+alias glg="git log --graph --oneline --decorate --all"
