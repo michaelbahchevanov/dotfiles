@@ -4,9 +4,9 @@
 .cache/
 .conda/
 .condarc
-.config/
 .config/iterm2
 .config/nvim
+.config/nvim.backup
 .config/spicetify
 .docker/
 .exported-keys/
